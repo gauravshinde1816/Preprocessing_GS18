@@ -6,8 +6,8 @@ This python package is prepared by Gaurav Shinde.
 
 Install
 
-<!-- `pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git` -->
+`pip install git+ssh:git@github.com/gauravshinde1816/Preprocessing_GS18.git`
 
 Uninstall
 
-<!-- `pip uninstall preprocess_kgptalkie` -->
+`pip uninstall Preprocessing_GS18`
